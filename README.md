@@ -1,1 +1,1 @@
-# chatbot-clarity-linter
+# clakick
